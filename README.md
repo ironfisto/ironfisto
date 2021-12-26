@@ -1,7 +1,7 @@
 Hi, I am Mukul Lohar 👋 
 ---
 
-🌍Currently, working as Senior Application Security Engineer at *TOKOPEDIA*
+🌍Currently, working as Senior Application Security Engineer at **TOKOPEDIA**
 
 ---
 **SKILL**
